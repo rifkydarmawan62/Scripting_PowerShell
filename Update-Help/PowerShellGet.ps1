@@ -1,0 +1,1 @@
+Update-Help PowerShellGet -Confirm
